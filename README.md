@@ -11,7 +11,7 @@ Los datos son ficcticios y están obtenido del dataset que encontras aquí: http
 - Datos: Contiene los datasets originales y modificados.
 - Modelos: Contiene dos pipelines con el modelo de ejecución y reentrenamiento finales.
 - Resultados: Contiene las variables finales.
-- App_heart: Contiene todo lo relacionado con el desarrollo de la aplicación indicada en la cabecera del notebook.
+- App_heart: Contiene todo lo relacionado con el desarrollo de la aplicación indicada en la cabecera del notebook Heart_Atack.ipynb.
 - Heart_Atack.ipynb: Notebook con el desarrollo completo del modelo de machine learning.
 
 Gracias por leerme!

@@ -9,7 +9,9 @@ Los datos son ficcticios y están obtenido del dataset que encontras aquí: http
 
 Estructura del repositorio.
 - Datos: Contiene los datasets originales y modificados.
-- 
+- Modelos: Contiene dos pipelines con el modelo de ejecución y reentrenamiento finales.
+- Resultados: Contiene las variables finales.
+- App: Contiene todo lo relacionado con el desarrollo de la aplicación indicada en la cabecera del notebook.
 
 Desarrollo del evolutivo:
 Desarrollo de la aplicación:

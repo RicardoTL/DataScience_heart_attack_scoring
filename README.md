@@ -1,17 +1,17 @@
-Hola! 
+Hello! 
 
-¿Qué necesitas saber?
+What do you need to know? 📢
 
-Este repositorio tiene caracter académico, el objetivo es mostar el desarrollo de un modelo de Machine Learning Supervisado de Regresión.
+This repository has an academic character, the objective is to show the development of a Regression Supervised Machine Learning model.
 
-Los datos son ficcticios y están obtenido del dataset que encontras aquí: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+The data are fictitious and are obtained from the dataset that you can find here: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-¿Como se organiza el repositorio?
+How is the repository organized? 📢
 
-- Datos: Contiene los datasets originales y modificados.
-- Modelos: Contiene dos pipelines con el modelo de ejecución y reentrenamiento finales.
-- Resultados: Contiene las variables finales.
-- App_heart: Contiene todo lo relacionado con el desarrollo de la aplicación indicada en la cabecera del notebook Heart_Atack.ipynb.
-- Heart_Atack.ipynb: Notebook con el desarrollo completo del modelo de machine learning.
+- Data: It contains the original and modified datasets.
+- Models: Contains two pipelines with the final execution and retraining model.
+- Results: Contains the final variables.
+- App_heart: Contains everything related to the development of the application indicated in the header of the Heart_Atack.ipynb notebook.
+- Heart_Atack.ipynb: Notebook with the complete development of the machine learning model.
 
-Gracias por leerme!
+Thanks for reading me!

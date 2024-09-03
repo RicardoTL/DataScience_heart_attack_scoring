@@ -1,12 +1,12 @@
-Hello! 
+## Heart Attack Scoring
 
-What do you need to know? 📢
+# What do you need to know? 📢
 
 This repository has an academic character, the objective is to show the development of a Regression Supervised Machine Learning model.
 
 The data are fictitious and are obtained from the dataset that you can find here: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-How is the repository organized? 📢
+# How is the repository organized? 📢
 
 - Data: It contains the original and modified datasets.
 - Models: Contains two pipelines with the final execution and retraining model.

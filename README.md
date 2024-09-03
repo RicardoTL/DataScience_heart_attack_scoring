@@ -1,4 +1,4 @@
-Hola! Gracias por pasarte!
+Hola! 
 
 ¿Qué necesitas saber?
 
@@ -14,3 +14,4 @@ Los datos son ficcticios y están obtenido del dataset que encontras aquí: http
 - App_heart: Contiene todo lo relacionado con el desarrollo de la aplicación indicada en la cabecera del notebook.
 - Heart_Atack.ipynb: Notebook con el desarrollo completo del modelo de machine learning.
 
+Gracias por leerme!

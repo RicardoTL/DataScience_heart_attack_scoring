@@ -2,7 +2,7 @@
 
 # What do you need to know? 📢
 
-This repository has an academic character, the objective is to show the development of a Regression Supervised Machine Learning model.
+This repository has an academic character, the objective is to show the development of a Supervised Machine Learning model that informs us of the risk of suffering a heart attack.
 
 The data are fictitious and are obtained from the dataset that you can find here: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
